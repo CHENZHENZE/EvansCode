@@ -26,4 +26,14 @@
             jsp脚本注释：//
                         /* */
       客户端注释：
-            <!-- -->
+            <!-- -->
+# 九大内置对象
+1.out
+2.request
+3.response
+4.application
+5.session
+6.page
+7.pagContext
+8.exception
+9.config
