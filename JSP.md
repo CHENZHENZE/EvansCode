@@ -5,7 +5,7 @@
           语法：
             <%@page 属性1="属性值" 属性2="属性值" ... 属性n="属性值"%>
             <table>
-            <tr><td>1</td></tr>
+            <tr><td align=center>1</td></tr>
             </table>
       include指令（包含）：将外部文件嵌入到jsp文件中<br>
       taglib指令（标签库）：使用标签库定义新的自定义标签，在JSP页面中启用制定行为
